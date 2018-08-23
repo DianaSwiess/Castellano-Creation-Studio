@@ -54,12 +54,13 @@ text-justify:inherit;
          height: 200px;
     }
     h1{
-        font-size:20px;
+        font-size:15px;
     }
 }
 @media screen and(max-width:500px){
     .contenedor img{
         width:50%;
+        height: 300px;
         box-sizing:border-box;
     }
     #cabecera{
@@ -90,6 +91,7 @@ text-justify:inherit;
     }
     .contenedor img{
         width:95%;
+         height: 350px;
         box-sizing:border-box;
     }
     h1{
