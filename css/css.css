@@ -50,7 +50,7 @@ text-justify:inherit;
 }
 @media screen and(max-width:768px){
     .contenedor img{
-        width:20%;
+        width:3%;
     }
     h1{
         font-size:20px;
@@ -61,22 +61,34 @@ text-justify:inherit;
         width:30%;
         box-sizing:border-box;
     }
+    #cabecera{
+    width:95%;
+    height: 100px;
+    }
     h1{
         font-size:15px;
     }
 }
 @media screen and(max-width:369px){
     .contenedor img{
-        width:100%;
+        width:95%;
         box-sizing:border-box;
+    }
+   #cabecera{
+    width:100%;
+    height: 100px;
     }
     h1{
         font-size:30px;
     }
 }
 @media screen and (max-width:400px){
+    #cabecera{
+      width:100%;
+    height: 80px;
+    }
     .contenedor img{
-        width:100%;
+        width:95%;
         box-sizing:border-box;
     }
     h1{
