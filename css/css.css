@@ -50,7 +50,7 @@ text-justify:inherit;
 }
 @media screen and(max-width:768px){
     .contenedor img{
-        width:30%;
+        width:25%;
     }
     h1{
         font-size:20px;
