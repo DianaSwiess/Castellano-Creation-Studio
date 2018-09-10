@@ -116,7 +116,7 @@ h3{
 #footer {
 position: relative;
 /* Altura total del footer en px con valor negativo */
-background:beige; 
+background:darkgray;
 text-align:center; 
 color:white;
 float:left; 
