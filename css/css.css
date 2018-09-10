@@ -123,40 +123,28 @@ h3{
 }
 @media screen and(max-width:500px){
     .contenedor img{
-        width:95%;
+        width:30%;
         box-sizing:border-box;
     }
-    #cabecera{
-    width:95%;
-    height: 100px;
-    }
     h1{
-        font-size:20px;
+        font-size:15px;
     }
 }
 @media screen and(max-width:369px){
     .contenedor img{
-        width:95%;
+        width:100%;
         box-sizing:border-box;
-    }
-   #cabecera{
-    width:100%;
-    height: 100px;
     }
     h1{
         font-size:30px;
     }
 }
-@media screen and (max-width:414px){
-    #cabecera{
-      width:100%;
-    height: 100px;
-    }
+@media screen and (max-width:400px){
     .contenedor img{
-        width:95%;
+        width:100%;
         box-sizing:border-box;
     }
     h1{
-        font-size:20px;
+        font-size:30px;
     }
 }
